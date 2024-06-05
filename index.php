@@ -38,7 +38,7 @@
       <h1 class="display-4">Dobrodošli u moj glazbeni kutak!</h1>
       <p class="lead">Pozdrav i dobrodošli na moju web stranicu posvećenu ljubavi prema muzici i kolekcionarstvu! Ovdje
         ćete pronaći raznoliku zbirku glazbenih izdanja, uključujući CD-e, vinile i još mnogo toga. Svaki komad u mojoj
-        kolekciji odražava strast prema različitim glazbenim žanrovima i umjetnicima sa strane i domaće scene.</p>
+        kolekciji odražava strast prema različitim glazbenim žanrovima, te umjetnicima sa strane i domaće scene.</p>
       <img src="slika.jpg" alt="Slika" width="50%" class="rounded mx-auto d-block">
       <p class="mt-3">Muzika je univerzalni jezik koji povezuje ljude, a ova kolekcija je moj način da dijelim radost i
         ljepotu glazbe sa svima vama. Pregledajte moju zbirku, istražite različite albume i otkrijte možda nešto novo
@@ -46,8 +46,8 @@
     </div>
 
     <div>
-      <h2>Tražim Rijetka Izdanja</h2>
-      <p>Kao strastveni kolekcionar, uvijek sam u potrazi za rijetkim i posebnim izdanjima koja mogu obogatiti moju
+      <h2>Tražim rijetka izdanja</h2>
+      <p>Kao strastveni kolekcionar, uvijek sam u potrazi za rijetkim i posebnim izdanjima koja mogu obogatiti svoju
         kolekciju. Ako imate neki komad koji mislite da bi mogao biti interesantan, slobodno me kontaktirajte. Otvoren
         sam za pregovore i razmjenu informacija. Na stranici "Kontakt" možete pronaći moj mail kao i popis stvari koje tražim za kolekciju.</p>
     </div>
