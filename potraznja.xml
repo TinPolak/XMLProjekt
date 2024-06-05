@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mediji>
+    <medij>
+        <izvodac>Bring Me The Horizon</izvodac>
+        <naziv>Live At The Royal Albert Hall</naziv>
+        <godina_izdanja>2016</godina_izdanja>
+        <format>2xCD</format>
+        <vrste>
+            <vrsta>Album</vrsta>
+            <vrsta>Live</vrsta>
+        </vrste>
+    </medij>
+    <medij>
+        <izvodac>Bring Me The Horizon</izvodac>
+        <naziv>Live From Maida Vale</naziv>
+        <godina_izdanja>2016</godina_izdanja>
+        <format>7" Vinil</format>
+        <vrste>
+            <vrsta>Single</vrsta>
+            <vrsta>Live</vrsta>
+        </vrste>
+    </medij>
+    <medij>
+        <izvodac>Bring Me The Horizon</izvodac>
+        <naziv>There Is A Hell Believe Me I've Seen It. There Is A Heaven Let's Keep It A Secret.</naziv>
+        <godina_izdanja>2010</godina_izdanja>
+        <format>CD</format>
+        <vrste>
+            <vrsta>Album</vrsta>
+        </vrste>
+    </medij>
+    <medij>
+        <izvodac>Bring Me The Horizon</izvodac>
+        <naziv>This Is What The Edge Of Your Seat Was Made For</naziv>
+        <godina_izdanja>2004</godina_izdanja>
+        <format>CD</format>
+        <vrste>
+            <vrsta>EP</vrsta>
+        </vrste>
+    </medij>
+    <medij>
+        <izvodac>The Dead End Kids Club</izvodac>
+        <naziv>Dead End Kids Club</naziv>
+        <godina_izdanja>2019</godina_izdanja>
+        <format>10" Vinil</format>
+        <vrste>
+            <vrsta>EP</vrsta>
+        </vrste>
+    </medij>
+    <medij>
+        <izvodac>Fall Out Boy</izvodac>
+        <naziv>Believers Never Die (Volume 2)</naziv>
+        <godina_izdanja>2019</godina_izdanja>
+        <format>CD</format>
+        <vrste>
+            <vrsta>Album</vrsta>
+            <vrsta>Kompilacija</vrsta>
+            <vrsta>Japansko izdanje</vrsta>
+        </vrste>
+    </medij>
+    <medij>
+        <izvodac>Fall Out Boy</izvodac>
+        <naziv>Infinity On High</naziv>
+        <godina_izdanja>2007</godina_izdanja>
+        <format>CD</format>
+        <vrste>
+            <vrsta>Album</vrsta>
+            <vrsta>Japansko izdanje</vrsta>
+        </vrste>
+    </medij>
+    <medij>
+        <izvodac>Fall Out Boy</izvodac>
+        <naziv>My Heart Will Always Be The B-Side To My Tongue</naziv>
+        <godina_izdanja>2004</godina_izdanja>
+        <format>CD + DVD</format>
+        <vrste>
+            <vrsta>EP</vrsta>
+        </vrste>
+    </medij>
+    <medij>
+        <izvodac>Gerard Way</izvodac>
+        <naziv>Pinkish / Don't Try</naziv>
+        <godina_izdanja>2016</godina_izdanja>
+        <format>7" Vinil</format>
+        <vrste>
+            <vrsta>Single</vrsta>
+        </vrste>
+    </medij>
+    <medij>
+        <izvodac>Gerard Way</izvodac>
+        <naziv>Zero Zero</naziv>
+        <godina_izdanja>2015</godina_izdanja>
+        <format>12" Vinil</format>
+        <vrste>
+            <vrsta>Single</vrsta>
+            <vrsta>Picture disk</vrsta>
+        </vrste>
+    </medij>
+    <medij>
+        <izvodac>Kinoklub</izvodac>
+        <naziv>Ajmo klinci</naziv>
+        <godina_izdanja>2010</godina_izdanja>
+        <format>CD</format>
+        <vrste>
+            <vrsta>Album</vrsta>
+        </vrste>
+    </medij>
+    <medij>
+        <izvodac>My Chemical Romance</izvodac>
+        <naziv>Conventional Weapons</naziv>
+        <godina_izdanja>2013</godina_izdanja>
+        <format>5x7" Vinil</format>
+        <vrste>
+            <vrsta>Box set</vrsta>
+            <vrsta>Single</vrsta>
+        </vrste>
+    </medij>
+    <medij>
+        <izvodac>My Chemical Romance</izvodac>
+        <naziv>Headfirst For Halos</naziv>
+        <godina_izdanja>2004</godina_izdanja>
+        <format>7" Vinil</format>
+        <vrste>
+            <vrsta>Single</vrsta>
+        </vrste>
+    </medij>
+    <medij>
+        <izvodac>My Chemical Romance</izvodac>
+        <naziv>I'm Not Okay (I Promise)</naziv>
+        <godina_izdanja>2005</godina_izdanja>
+        <format>7" Vinil</format>
+        <vrste>
+            <vrsta>Single</vrsta>
+        </vrste>
+    </medij>
+    <medij>
+        <izvodac>My Chemical Romance</izvodac>
+        <naziv>Thank You For The Venom</naziv>
+        <godina_izdanja>2004</godina_izdanja>
+        <format>7" Vinil</format>
+        <vrste>
+            <vrsta>Single</vrsta>
+        </vrste>
+    </medij>
+    <medij>
+        <izvodac>Panic! At The Disco</izvodac>
+        <naziv>Death Of A Bachelor</naziv>
+        <godina_izdanja>2017</godina_izdanja>
+        <format>7" Vinil</format>
+        <vrste>
+            <vrsta>Single</vrsta>
+        </vrste>
+    </medij>
+    <medij>
+        <izvodac>Panic! At The Disco</izvodac>
+        <naziv>C'mon</naziv>
+        <godina_izdanja>2011</godina_izdanja>
+        <format>7" Vinil</format>
+        <vrste>
+            <vrsta>Single</vrsta>
+        </vrste>
+    </medij>
+    <medij>
+        <izvodac>Panic! At The Disco</izvodac>
+        <naziv>Vices &amp; Virtues</naziv>
+        <godina_izdanja>2011</godina_izdanja>
+        <format>CD</format>
+        <vrste>
+            <vrsta>Album</vrsta>
+            <vrsta>Japansko izdanje</vrsta>
+        </vrste>
+    </medij>
+    <medij>
+        <izvodac>Živo Blato</izvodac>
+        <naziv>Konac konca</naziv>
+        <godina_izdanja>2000</godina_izdanja>
+        <format>CD</format>
+        <vrste>
+            <vrsta>Album</vrsta>
+        </vrste>
+    </medij>
+</mediji>
